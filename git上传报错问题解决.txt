@@ -1,0 +1,4 @@
+1、git push后出现错误 ![rejected] master -> master(non-fast-forward) error:failed to push some refs to 'XXX'
+	请访问：	https://www.cnblogs.com/mei1234/p/11890072.html
+2、git 上传详细步骤
+	请访问：https://www.jianshu.com/p/f290829e42f8
